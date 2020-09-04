@@ -20,7 +20,7 @@
     "bluebird": "^3.5.0",
     "chalk": "^3.0.0",
     "csv-parser": "^2.2.0",
-    "decompress": "^4.2.0",
+    "decompress": "^4.2.1",
     "eslint": "^6.0",
     "eslint-config-standard": "^14.0",
     "eslint-plugin-import": "^2.18",
