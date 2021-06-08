@@ -1,0 +1,37 @@
+nom: Centre Communal d'Action Sociale de la ville de Rennes
+pivotLocal: ccas
+id: ccas_Rennes
+adresses:
+  - id: '35238_5210_00007'
+    lignes:
+      - 7 Rue Kléber
+    codePostal: '35000'
+    commune: Rennes
+    type: physique
+telephone: 02 99 02 30 35
+accueil physique:
+  horaires:
+    - du: mardi
+      au: mardi
+      heures:
+        - de: 13h30
+          a: 17h
+    - du: mercredi
+      au: vendredi
+      heures:
+        - de: 8h30
+          a: 12h30
+        - de: 13h30
+          a: 17h
+    - du: lundi
+      au: lundi
+      heures:
+        - de: 8h30
+          a: 12h30
+        - de: 13h30
+          a: 17h
+zonage:
+  communes:
+    - 35238 Rennes
+url: >-
+  https://metropole.rennes.fr/organisme/ccas-antenne-centre-5008
