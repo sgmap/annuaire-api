@@ -83,6 +83,7 @@ definitions:
           - mds
           - permanence_sociale
           - sdsei
+          - mission_locale
       adresses:
         type: array
         items:

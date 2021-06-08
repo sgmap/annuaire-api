@@ -1,0 +1,50 @@
+nom: Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Villemomble
+pivotLocal: mission_locale
+id: mission_locale-93077-01
+adresses:
+  - lignes:
+      - 121/123 avenue de Rosny
+    codePostal: '93250'
+    commune: Villemomble
+    type: physique
+telephone: 01 48 54 56 54
+email: accueil@mlgpv-mlidf.org
+accueil physique:
+  horaires:
+    - du: lundi
+      au: jeudi
+      heures:
+        - de: 9h
+          a: 12h
+        - de: 13h30
+          a: 17h30
+    - du: vendredi
+      au: vendredi
+      heures:
+        - de: 9h
+          a: 12h30
+zonage:
+  communes:
+    - 93032 Gagny
+    - 93071 Sevran
+    - 93015 Coubron
+    - 93078 Villepinte
+    - 93057 Les Pavillons-sous-Bois
+    - 93030 Dugny
+    - 93051 Noisy-le-Grand
+    - 93077 Villemomble
+    - 93005 Aulnay-sous-Bois
+    - 93047 Montfermeil
+    - 93074 Vaujours
+    - 93033 Gournay-sur-Marne
+    - 93007 Le Blanc-Mesnil
+    - 93029 Drancy
+    - 93050 Neuilly-sur-Marne
+    - 93064 Rosny-sous-Bois
+    - 93049 Neuilly-Plaisance
+    - 93013 Le Bourget
+    - 93014 Clichy-sous-Bois
+    - 93046 Livry-Gargan
+    - 93073 Tremblay-en-France
+    - 93062 Le Raincy
+url: mission-locale-gvp.fr

@@ -1,0 +1,45 @@
+nom: Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Les Pavillons-sous-Bois
+pivotLocal: mission_locale
+id: mission_locale-93057-01
+adresses:
+  - lignes:
+      - 2 bis Allée Henri Barbusse
+    codePostal: '93320'
+    commune: Les Pavillons-sous-Bois
+    type: physique
+telephone: 01 48 02 45 39
+accueil physique:
+  horaires:
+    - du: lundi
+      au: vendredi
+      heures:
+        - de: 9h
+          a: 12h30
+        - de: 13h45
+          a: 16h30
+email: accueil@mlgpv-mlidf.org
+zonage:
+  communes:
+    - 93032 Gagny
+    - 93071 Sevran
+    - 93015 Coubron
+    - 93078 Villepinte
+    - 93057 Les Pavillons-sous-Bois
+    - 93030 Dugny
+    - 93051 Noisy-le-Grand
+    - 93077 Villemomble
+    - 93005 Aulnay-sous-Bois
+    - 93047 Montfermeil
+    - 93074 Vaujours
+    - 93033 Gournay-sur-Marne
+    - 93007 Le Blanc-Mesnil
+    - 93029 Drancy
+    - 93050 Neuilly-sur-Marne
+    - 93064 Rosny-sous-Bois
+    - 93049 Neuilly-Plaisance
+    - 93013 Le Bourget
+    - 93014 Clichy-sous-Bois
+    - 93046 Livry-Gargan
+    - 93073 Tremblay-en-France
+    - 93062 Le Raincy
+url: mission-locale-gvp.fr

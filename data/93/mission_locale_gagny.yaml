@@ -1,0 +1,52 @@
+nom: Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Gagny
+pivotLocal: mission_locale
+id: mission_locale-93032-01
+adresses:
+  - lignes:
+      - 1 Esplanade Michel Teulet
+    codePostal: '93220'
+    commune: Gagny
+    type: physique
+telephone: 01 56 49 22 88
+accueil physique:
+  horaires:
+    - du: lundi
+      au: jeudi
+      heures:
+        - de: 8h45
+          a: 12h
+        - de: 13h30
+          a: 17h45
+    - du: vendredi
+      au: samedi
+      heures:
+        - de: 8h45
+          a: 12h
+        - de: 13h30
+          a: 17h15
+email: accueil@mlgpv-mlidf.org
+zonage:
+  communes:
+    - 93032 Gagny
+    - 93071 Sevran
+    - 93015 Coubron
+    - 93078 Villepinte
+    - 93057 Les Pavillons-sous-Bois
+    - 93030 Dugny
+    - 93051 Noisy-le-Grand
+    - 93077 Villemomble
+    - 93005 Aulnay-sous-Bois
+    - 93047 Montfermeil
+    - 93074 Vaujours
+    - 93033 Gournay-sur-Marne
+    - 93007 Le Blanc-Mesnil
+    - 93029 Drancy
+    - 93050 Neuilly-sur-Marne
+    - 93064 Rosny-sous-Bois
+    - 93049 Neuilly-Plaisance
+    - 93013 Le Bourget
+    - 93014 Clichy-sous-Bois
+    - 93046 Livry-Gargan
+    - 93073 Tremblay-en-France
+    - 93062 Le Raincy
+url: mission-locale-gvp.fr
