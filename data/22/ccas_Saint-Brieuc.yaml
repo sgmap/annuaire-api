@@ -1,0 +1,28 @@
+nom: Centre Communal d'Action Sociale de la ville de Saint-Brieuc
+pivotLocal: ccas
+id: ccas_Saint-Brieuc
+adresses:
+  - id: ADRNIVX_0000000276842265
+    lignes:
+      - 1 Place Général de Gaulle
+    codePostal: '22000'
+    commune: Saint-Brieuc
+    type: physique
+telephone: 02 96 62 54 00
+accueil physique:
+  horaires:
+    - du: lundi
+      au: vendredi
+      heures:
+        - de: 8h
+          a: 12h
+        - de: 13h30
+          a: 17h
+    - du: samedi
+      au: samedi
+      heures:
+        - de: 9h
+          a: 12h
+zonage:
+  communes:
+    - 22278 Saint-Brieuc
